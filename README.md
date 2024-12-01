@@ -10,4 +10,4 @@ For these challenges I'm going to use **Python** to improve my programming skill
 
 ## 📖Índice
 
-1. [Day 1: Historian Hysteria](challenges/day01/Historian_Hysteria.md)
+1. [Day 1: Historian Hysteria](challenges/day01/README.md)
