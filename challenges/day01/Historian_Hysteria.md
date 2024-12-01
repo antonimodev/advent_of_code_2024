@@ -1,5 +1,4 @@
 # Day 1 Historian Hysteria.
----
 
 ## Part 1
 We have 2 list and the task is to **calculate the total distance starting by the _smallest_ one of each list**. For each pair, calculate the absolute difference between the numbers then sum the distances from each pair to determine the total "distance" between the two lists.
@@ -38,3 +37,8 @@ To solve this problem, I started by processing the input from a text file.
     * I multiplied the number by its frequency and added the result to the total score.
 
 [Check code here!](solution.py)
+
+<div style="text-align: center;">
+  <img src="../../images/AoC_2024_star.png" alt="AoC 2024 Star" width="120" height="120">
+  <img src="../../images/AoC_2024_star.png" alt="AoC 2024 Star" width="120" height="120">
+</div>
