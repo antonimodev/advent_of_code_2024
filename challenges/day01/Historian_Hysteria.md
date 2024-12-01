@@ -38,7 +38,7 @@ To solve this problem, I started by processing the input from a text file.
 
 [Check code here!](solution.py)
 
-<div style="text-align: center;">
-  <img src="../../images/AoC_2024_star.png" alt="AoC 2024 Star" width="120" height="120">
-  <img src="../../images/AoC_2024_star.png" alt="AoC 2024 Star" width="120" height="120">
-</div>
+<p align="center">
+  <img src="../../images/AoC_2024_Star.png" alt="AoC 2024 Star" width="120" height="120">
+  <img src="../../images/AoC_2024_Star.png" alt="AoC 2024 Star" width="120" height="120">
+</p>
