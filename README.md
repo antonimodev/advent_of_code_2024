@@ -17,3 +17,4 @@
 ## 📖 Index
 
 1. [Day 1: Historian Hysteria](challenges/day01/README.md)
+2. [Day 2: Red-Nosed Reports](challenges/day02/README.md)
