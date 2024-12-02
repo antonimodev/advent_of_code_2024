@@ -14,6 +14,6 @@
     <img src="images/AoC_2024_Python.png" alt="AoC 2024 Python" width="120">
 </p>
 
-## 📖Índice
+## 📖 Index
 
 1. [Day 1: Historian Hysteria](challenges/day01/README.md)
