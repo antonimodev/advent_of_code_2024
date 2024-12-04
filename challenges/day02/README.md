@@ -3,7 +3,7 @@
 ## Part 1
 We have several reports, each consisting of a sequence of numbers, and the task is to **determine whether each report is safe or unsafe based on specific rules**.
 
-### Rules for Safety
+#### Rules for Safety
 
 * A report is safe if:
     * All consecutive numbers either increase or decrease consistently by 1, 2, or 3.
