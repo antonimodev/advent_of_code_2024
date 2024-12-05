@@ -54,3 +54,10 @@ Conditional processing while scanning the input:
 
 * If the flag is True, valid mul(X,Y) patterns are processed using the same logic from Step 1.
 * If the flag is False, these instructions are skipped.
+
+[Check code here!](solution.py)
+
+<p align="center">
+  <img src="../../images/AoC_2024_Star.png" alt="AoC 2024 Star" width="120" height="120">
+  <img src="../../images/AoC_2024_Star.png" alt="AoC 2024 Star" width="120" height="120">
+</p>

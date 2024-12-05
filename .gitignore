@@ -4,3 +4,9 @@
 # Specific files
 challenges/day01/*.txt
 challenges/day02/*.txt
+challenges/day03/*.txt
+challenges/day04/*.txt
+
+# In progress
+
+challenges/day05

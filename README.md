@@ -19,4 +19,5 @@
 1. [Day 1: Historian Hysteria](challenges/day01/README.md)
 2. [Day 2: Red-Nosed Reports](challenges/day02/README.md)
 3. [Day 3: Mull It Over](challenges/day03/README.md)
-4. [Day 4: ](challenges/day04/README.md)
+4. [Day 4: Ceres Search](challenges/day04/README.md)
+5. [Day 5: Print Queue](challenges/day05/README.md)
