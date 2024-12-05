@@ -11,15 +11,15 @@ The task is to **find all occurrences of the word "XMAS" in a word search grid**
 
 For example:
 
-`MMMSXXMASM`
-`MSAMXMSMSA`
-`AMXSXMAAMM`
-`MSAMASMSMX`
-`XMASAMXAMM`
-`XXAMMXXAMA`
-`SMSMSASXSS`
-`SAXAMASAAA`
-`MAMMMXMMMM`
+`MMMSXXMASM`<br>
+`MSAMXMSMSA`<br>
+`AMXSXMAAMM`<br>
+`MSAMASMSMX`<br>
+`XMASAMXAMM`<br>
+`XXAMMXXAMA`<br>
+`SMSMSASXSS`<br>
+`SAXAMASAAA`<br>
+`MAMMMXMMMM`<br>
 `MXMXAXMASX`
 
 `XMAS` Word appears 18 times.
